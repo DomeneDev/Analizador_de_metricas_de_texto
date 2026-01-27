@@ -49,10 +49,10 @@ Estadísticas: {
 🛡️ Roadmap de Aprendizaje
 Este proyecto evolucionará conforme avance mi formación en Python:
 
-[x] Fase 1: Lógica core y modularización (Estado actual).
+[x] Sprint 1: Lógica core y modularización (Estado actual).
 
-[ ] Fase 2: Implementación de manejo de excepciones (try-except).
+[ ] Sprint 2: Implementación de manejo de excepciones (try-except).
 
-[ ] Fase 3: Persistencia de datos en archivos .json y .csv.
+[ ] Sprint 3: Persistencia de datos en archivos .json y .csv.
 
-[ ] Fase 4: Refactorización a Programación Orientada a Objetos (POO).
+[ ] Sprint 4: Refactorización a Programación Orientada a Objetos (POO).
