@@ -88,7 +88,7 @@ def generar_metricas(texto_limpio:str)-> dict:
         suma_longitudes += longitud_de_la_clave
     
     # Calculo para el promedio de longitud de las claves
-    promedio_longitud = suma_longitudes/total_palabras
+    promedio_longitud = round(suma_longitudes/total_palabras, 2)
     
     # Construir diccionario con las métricas.
     metricas = {
