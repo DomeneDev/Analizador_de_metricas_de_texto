@@ -18,9 +18,13 @@ La arquitectura del código sigue el principio de separación de responsabilidad
 Plaintext
 
 analizador_texto/
+
 ├── main.py # Interfaz de usuario y orquestación del programa.
+
 ├── procesador.py # Núcleo lógico (motor de procesamiento).
+
 └── README.md # Documentación del proyecto.
+
 🛠️ Instalación y Uso
 Clona este repositorio o descarga los archivos.
 
