@@ -42,8 +42,11 @@ python main.py
 Introduce el texto a analizar: Python es genial, y programar en Python es divertido.
 
 +------------------------------------+
+
 | Resultados del análisis del texto  |
+
 +------------------------------------+
+
  - Total de palabras del texto: 12.
  - Palabra más larga: lenguaje.
  - Media de longitud de las palabras: 4.83.
