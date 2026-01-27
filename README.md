@@ -39,7 +39,7 @@ python main.py
 
 📝 Ejemplo de Salida
 
-Introduce el texto a analizar: Python es genial, y programar en Python es divertido.
+Python es genial, python es potente. Python, Python; es el mejor lenguaje.
 
 +------------------------------------+
 
@@ -52,20 +52,20 @@ Introduce el texto a analizar: Python es genial, y programar en Python es divert
  - Media de longitud de las palabras: 4.83.
 - Cantidad de palabras:
   
-        - python: 4 veces.
-  
-        - es: 3 veces.
-  
-        - genial: 1 vez
-  
-        - potente: 1 vez
-  
-        - el: 1 vez
-  
-        - mejor: 1 vez
-  
-        - lenguaje: 1 vez
-  
+    - python: 4 veces.
+
+    - es: 3 veces.
+
+    - genial: 1 vez
+
+    - potente: 1 vez
+
+    - el: 1 vez
+
+    - mejor: 1 vez
+
+    - lenguaje: 1 vez
+
 
 🛡️ Roadmap de Aprendizaje
 
