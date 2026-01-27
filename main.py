@@ -20,13 +20,13 @@ def ejecutar_analizador():
     print("+------------------------------------+")
     print(f" - Total de palabras del texto: {metricas['total_palabras']}.")
     print(f" - Palabra más larga: {metricas['palabra_mas_larga']}.")
-    print(f" - Media de longitud de las palabras: {metricas['promedio_longitud']:.2f}.")
+    print(f" - Media de longitud de las palabras: {metricas['promedio_longitud']}.")
     print("- Cantidad de palabras:")
-    for palabra, cantidad in frecuencia:
+    for palabra, cantidad in frecuencia.items():
         if cantidad == 1:
             print(f" \t- {palabra}: {cantidad} vez")
         else:
-            print(f" \t- {palabra}: {cantidad} vecs.")
+            print(f" \t- {palabra}: {cantidad} veces.")
 
 if __name__ == "__main__":
     ejecutar_analizador()
