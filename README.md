@@ -71,9 +71,9 @@ Python es genial, python es potente. Python, Python; es el mejor lenguaje.
 
 Este proyecto evolucionará conforme avance mi formación en Python:
 
-[x] Sprint 1: Lógica core y modularización (Estado actual).
+[x] Sprint 1: Lógica core y modularización .
 
-[ ] Sprint 2: Implementación de manejo de excepciones (try-except).
+[x] Sprint 2: Implementación de manejo de excepciones (try-except)(Estado actual).
 
 [ ] Sprint 3: Refactorización Arquitectónica (Utils).
 
