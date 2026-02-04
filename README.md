@@ -66,9 +66,9 @@ Este proyecto evolucionará conforme avance mi formación en Python:
 
 [x] Sprint 1: Lógica core y modularización .
 
-[x] Sprint 2: Implementación de manejo de excepciones (try-except)(Estado actual).
+[x] Sprint 2: Implementación de manejo de excepciones (try-except).
 
-[ ] Sprint 3: Refactorización Arquitectónica (Utils).
+[x] Sprint 3: Refactorización Arquitectónica (Utils) (Estado actual).
 
 [ ] Sprint 4: Persistencia de datos en archivos .json y .csv.
 
