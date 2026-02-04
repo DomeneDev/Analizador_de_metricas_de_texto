@@ -16,6 +16,7 @@ Cálculo de la longitud promedio de las palabras.
 📂 Estructura del Proyecto
 
 La arquitectura del código sigue el principio de separación de responsabilidades:
+```plaintext
 
 analizador_texto/
 
@@ -24,6 +25,7 @@ analizador_texto/
 ├── procesador.py # Núcleo lógico (motor de procesamiento).
 
 └── README.md # Documentación del proyecto.
+```
 
 🛠️ Instalación y Uso
 
@@ -40,6 +42,7 @@ python main.py
 📝 Ejemplo de Salida
 
 Python es genial, python es potente. Python, Python; es el mejor lenguaje.
+```plaintext
 
 +------------------------------------+
 
@@ -51,22 +54,15 @@ Python es genial, python es potente. Python, Python; es el mejor lenguaje.
  - Palabra más larga: lenguaje.
  - Media de longitud de las palabras: 4.83.
 - Cantidad de palabras:
-  
     - python: 4 veces.
-
     - es: 3 veces.
-
     - genial: 1 vez
-
     - potente: 1 vez
-
     - el: 1 vez
-
     - mejor: 1 vez
-
     - lenguaje: 1 vez
 
-
+```
 🛡️ Roadmap de Aprendizaje
 
 Este proyecto evolucionará conforme avance mi formación en Python:
