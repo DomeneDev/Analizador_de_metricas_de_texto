@@ -92,3 +92,24 @@ def generar_metricas(texto_limpio: str) -> dict:
     }
     # Devolver el diccionario de las métricas.
     return metricas
+
+
+def preparar_registro(texto: str, metricas: dict) -> dict:
+    """
+    Función para preparar los datos para carga en fichero json
+
+    Args:
+        texto (str): Texto a analizar
+        metricas (dict): Resultado de las métricas
+
+    Returns:
+        dict: Diccionario con los datos para su transformación a fichero json
+    """
+    # Muestra del texto
+    muestra_texto = texto[:20]+"..."
+    # Diccionario principal
+    datos_preparados = {
+        'texto original': muestra_texto,
+        'resultados': metricas
+    }
+    return datos_preparados
