@@ -68,8 +68,8 @@ Este proyecto evolucionará conforme avance mi formación en Python:
 
 [x] Sprint 2: Implementación de manejo de excepciones (try-except).
 
-[x] Sprint 3: Refactorización Arquitectónica (Utils) (Estado actual).
+[x] Sprint 3: Refactorización Arquitectónica (Utils).
 
-[ ] Sprint 4: Persistencia de datos en archivos .json y .csv.
+[x] Sprint 4: Persistencia de datos en archivos .json (Estado actual).
 
 [ ] Sprint 5: Refactorización a Programación Orientada a Objetos (POO).
