@@ -19,9 +19,12 @@ La arquitectura del código sigue el principio de separación de responsabilidad
 ```plaintext
 
 analizador_texto/
-├── main.py # Interfaz de usuario y orquestación del programa.
-├── procesador.py # Núcleo lógico (motor de procesamiento).
-└── README.md # Documentación del proyecto.
+├──data/                             # Carpeta de datos para almacenar ficheros.
+|    ├── historial_analisis.json     # Fichero json para historial de textos analizados
+├── main.py                          # Interfaz de usuario y orquestación del programa.
+├── procesador.py                    # Núcleo lógico (motor de procesamiento).
+├── storage_managamet.py             # Archivo para controlar los ficheros json
+└── README.md                        # Documentación del proyecto.
 ```
 
 🛠️ Instalación y Uso
