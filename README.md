@@ -73,6 +73,5 @@ Este proyecto evolucionará conforme avance mi formación en Python:
 
 [x] Sprint 3: Refactorización Arquitectónica (Utils).
 
-[x] Sprint 4: Persistencia de datos en archivos .json (Estado actual).
+[x] Sprint 4: Persistencia de datos en archivos .json.
 
-[ ] Sprint 5: Refactorización a Programación Orientada a Objetos (POO).
